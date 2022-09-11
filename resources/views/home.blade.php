@@ -16,7 +16,7 @@
                                         <h6 class="font-weight-bold my-2">₹{{ $product->price }}</h6>
                                     </div>
                                     <div class="d-flex align-items-center justify-content-center">
-                                        <a href="{{ url('products/'.$product->id) }}" class="btn btn-primary">Buy Now</a>
+                                        <a href="{{ url('products/'.$product->id) }}" class="btn btn-primary">Buy now</a>
                                     </div>
                                 </div>
                             </div> <!-- End -->
